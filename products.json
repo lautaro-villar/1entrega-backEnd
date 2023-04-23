@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Manzana",
+    "description": "Fruta",
+    "code": "manzana1",
+    "price": 15,
+    "status": true,
+    "stock": 500,
+    "category": "Frutas",
+    "thumbnails": [],
+    "quantity": null
+  },
+  {
+    "id": 2,
+    "title": "Leche",
+    "description": "Bebida",
+    "code": "leche1",
+    "price": 25,
+    "status": true,
+    "stock": 200,
+    "category": "Lácteos",
+    "thumbnails": [],
+    "quantity": null
+  },
+  {
+    "id": 3,
+    "title": "Arroz",
+    "description": "Grano",
+    "code": "arroz1",
+    "price": 5,
+    "status": true,
+    "stock": 1000,
+    "category": "Cereales",
+    "thumbnails": [],
+    "quantity": null
+  }
+]
+
